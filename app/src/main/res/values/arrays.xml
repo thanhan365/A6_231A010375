@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="danh_sach_khoa">
+        <item>Công nghệ thông tin</item>
+        <item>Kinh tế</item>
+        <item>Ngoại ngữ</item>
+    </string-array>
+
+    <string-array name="mon_hoc_cntt">
+        <item>Lập trình thiết bị di động</item>
+        <item>Lập trình Web</item>
+        <item>Cơ sở dữ liệu</item>
+        <item>Mạng máy tính</item>
+    </string-array>
+
+    <string-array name="mon_hoc_kinh_te">
+        <item>Kinh tế vĩ mô</item>
+        <item>Quản trị học</item>
+        <item>Tài chính doanh nghiệp</item>
+        <item>Marketing cơ bản</item>
+    </string-array>
+
+    <string-array name="mon_hoc_ngoai_ngu">
+        <item>Tiếng Anh chuyên ngành</item>
+        <item>Tiếng Trung cơ bản</item>
+        <item>Biên dịch nâng cao</item>
+    </string-array>
+</resources>
